@@ -2,7 +2,7 @@
   This code is using and Aurdino, aurdomoto and the Pololu QTR Sensor Library.
   It will follow a line on a track made of black tape on a white bristol board.
 
-  Created by: Yash Dhume, Kelley Wong, Filip Jedrusiak
+  Created by: Yash Dhume
   Teacher: Mr. Kolch
   Course Code: TEJ 4M1
   Date Started: April 25th 2017
